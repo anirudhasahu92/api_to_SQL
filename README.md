@@ -14,7 +14,7 @@ The pipeline is designed with clean separation of concerns and supports configur
 ---
 
 ## Project Structure
-![Uploading structure.jpg…]()
+![project structure](structure.jpg)
 
 ---
 
